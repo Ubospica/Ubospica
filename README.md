@@ -1,7 +1,9 @@
 ### Biography
 
-Hi here! I am Yixin Dong, a first-year Ph.D. student at Carnegie Mellon University, fortunately advised by [Prof. Tianqi Chen](https://tqchen.com/). Prior to that, I completed my Bachelor of Science in Computer Science and Technology at ACM Class, Shanghai Jiao Tong University.
+Hi! I’m Yixin Dong, a first-year Ph.D. student at Carnegie Mellon University, fortunate to be advised by [Prof. Tianqi Chen](https://tqchen.com/). I hold a Bachelor of Science in Computer Science and Technology from the ACM Class at Shanghai Jiao Tong University.
 
-My research interests lies in the intersection between machine learning and systems. I am also interested in LLM Agents. As a believer in open-source, I have contributed to co-lead several open source projects. Notable ones include [MLC-LLM](https://github.com/mlc-ai/mlc-llm) and [Apache TVM Unity](https://github.com/apache/tvm/tree/main). I am an Apache TVM Reviewer. Check out my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I am always eager to collaborate with passionate and like-minded partners.
+My research focuses on the intersection of machine learning and systems, with a growing interest in LLM Agents. As a dedicated advocate of open source, I have co-led and contributed to several notable projects, including [MLC-LLM](https://github.com/mlc-ai/mlc-llm) and [Apache TVM Unity](https://github.com/apache/tvm/tree/main), where I also serve as an Apache TVM Reviewer. I had the privilege of spending a wonderful time at the University of Washington, working with [Prof. Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
 
-Besides research, I am a cinephilia and contemporary dance lover. Let's grab a cup of coffee if you are interested in these!
+Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
+
+Beyond research, I’m a cinephile and a lover of contemporary dance. If you share similar interests, let’s grab a coffee and chat!
