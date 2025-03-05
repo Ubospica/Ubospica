@@ -6,4 +6,4 @@ My research focuses on the intersection of machine learning and systems, with a 
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
-Beyond research, I’m a cinephile and a lover of contemporary dance. If you share similar interests, let’s grab a coffee and chat!
+Beyond research, I’m a cinephile and a lover of contemporary dance. My favorite movies are *Die Blechtrommel* and *Il buono, il brutto, il cattivo*. If you share similar interests, let’s grab a coffee and chat!
