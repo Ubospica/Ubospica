@@ -8,6 +8,6 @@ We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project 
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
-**I am open to advising CMU undergrads and master’s students with backgrounds or interests in LLM post-training (especially about RL), CUDA, or (ML) compilers. I’m also happy to chat about research and PhD applications with students from underrepresented groups or anyone in need. Please reach out by email.**
+**I am open to advising CMU undergrads and master’s students with backgrounds or interests in LLM post-training (especially RL), CUDA, or (ML) compilers. I’m also happy to chat about research and PhD applications with students from underrepresented groups or anyone in need. Please reach out by email.**
 
 Beyond research, I’m a cinephile and a lover of contemporary dance. My favorite movies are *Hiroshima mon amour* and *Il buono, il brutto, il cattivo*. If you share similar interests, let’s grab a coffee and chat!
