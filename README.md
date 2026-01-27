@@ -8,6 +8,8 @@ I am also interested in ML systems and ML compilers. I am a dedicated advocate o
 
 We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward recently. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#news).
 
+I am also driving the development of [FlashInfer-Bench](https://github.com/flashinfer-ai/flashinfer-bench/) recently. It is a kernel evaluation framework designed for AI agents. Check out our [kernel generation competition](https://mlsys26.flashinfer.ai/) at MLSys 2026!
+
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
 **I am open to advising CMU undergrads and master’s students with backgrounds or interests in LLM post-training (especially RL), CUDA, or (ML) compilers. I’m also happy to chat about research and PhD applications with students from underrepresented groups or anyone in need. Please reach out by email.**
