@@ -12,6 +12,6 @@ I am also driving the development of [FlashInfer-Bench](https://github.com/flash
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
-**I am open to advising CMU undergrads and master’s students with backgrounds or interests in LLM post-training (especially RL), CUDA, or (ML) compilers. I’m also happy to chat about research and PhD applications with students from underrepresented groups or anyone in need. Please reach out by email.**
+**I am open to advising CMU undergrads and master’s students with backgrounds or interests in ML systems and agents for coding. Expertise in LLM post-training, CUDA, or ML compilers is desirable (but not required). I’m also happy to chat about research and PhD applications with students from underrepresented groups or anyone in need. Please reach out by email.**
 
 Beyond research, I’m a cinephile and a lover of contemporary dance. My favorite movies are *Hiroshima mon amour* and *Il buono, il brutto, il cattivo*. If you share similar interests, let’s grab a coffee and chat!
