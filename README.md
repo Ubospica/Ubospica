@@ -8,9 +8,9 @@ I am generally interested in ML systems and ML compilers. I am a dedicated advoc
 
 From 2025 to 2026, I worked at xAI (now SpaceXAI) and am the main contributor to xAI's structured generation effort. xAI adopted XGrammar for its structured generation library.
 
-We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward recently. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
+We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
 
-We are recently pushing agent-driven kernel generation, including [datasets and environments](https://github.com/flashinfer-ai/flashinfer-bench/), [competition](https://mlsys26.flashinfer.ai/), agent workflow, compilers and DSLs, and post-training.
+We are currently pushing agent-driven kernel generation, including [datasets and environments](https://github.com/flashinfer-ai/flashinfer-bench/), [competition](https://mlsys26.flashinfer.ai/), agent workflow, compilers and DSLs, and post-training.
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
