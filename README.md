@@ -4,11 +4,13 @@ Hi! I’m Yixin Dong, a Ph.D. student at Carnegie Mellon University, fortunate t
 
 I am building efficient and verifiable AI agents. I regard it as a crucial pathway to AGI. 
 
-I am also interested in ML systems and ML compilers. I am a dedicated advocate of open source, leading several well-adopted projects, including [MLC-LLM](https://github.com/mlc-ai/mlc-llm) and [Apache TVM Unity](https://github.com/apache/tvm/tree/main), where I serve as an Apache TVM Reviewer. I had the privilege of spending a wonderful time at the University of Washington, working with [Prof. Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
+I am generally interested in ML systems and ML compilers. I am a dedicated advocate of open source and have built several adopted projects, including [MLC-LLM](https://github.com/mlc-ai/mlc-llm) and [Apache TVM Unity](https://github.com/apache/tvm/tree/main), where I serve as an Apache TVM Committer. I had the privilege of spending a wonderful time at the University of Washington, working with [Prof. Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
+
+From 2025 to 2026, I worked at xAI (now SpaceXAI) and am the main contributor to xAI's structured generation effort. xAI adopted XGrammar for its structured generation library.
 
 We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward recently. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
 
-I am also driving the development of [FlashInfer-Bench](https://github.com/flashinfer-ai/flashinfer-bench/) recently. It is a kernel evaluation framework designed for AI agents. Check out our [kernel generation competition](https://mlsys26.flashinfer.ai/) at MLSys 2026!
+We are recently pushing agent-driven kernel generation, including [datasets and environments](https://github.com/flashinfer-ai/flashinfer-bench/), [competition](https://mlsys26.flashinfer.ai/), agent workflow, compilers and DSLs, and post-training.
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
