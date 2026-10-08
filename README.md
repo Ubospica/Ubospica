@@ -10,7 +10,7 @@ From 2025 to 2026, I worked at xAI (now SpaceXAI) and am the main contributor to
 
 We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
 
-We are also currently pushing agent-driven kernel generation, including [environments](https://github.com/flashinfer-ai/flashinfer-bench/), [datasets](https://huggingface.co/datasets/flashinfer-ai/flashinfer-trace), [competition](https://mlsys26.flashinfer.ai/), [agent workflow](https://github.com/NVlabs/kda), compilers and DSLs, and post-training.
+We are also currently pushing agent-driven kernel generation, including environments ([evaluation](https://github.com/flashinfer-ai/flashinfer-bench/), [sandbox and infra](https://github.com/mlc-ai/kcoral/)), [datasets](https://huggingface.co/datasets/flashinfer-ai/flashinfer-trace), [competition](https://mlsys26.flashinfer.ai/), [agent workflow](https://github.com/NVlabs/kda), compilers and DSLs, and post-training.
 
 Feel free to explore my [CV](https://github.com/Ubospica/Ubospica/blob/master/Resume.pdf) to learn more. I’m always open to collaborating with passionate, like-minded individuals.
 
