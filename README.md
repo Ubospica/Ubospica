@@ -6,9 +6,9 @@ I am building efficient and verifiable AI agents. I regard it as a crucial pathw
 
 I am generally interested in ML systems and ML compilers. I am a dedicated advocate of open source and have built several adopted projects, including [MLC-LLM](https://github.com/mlc-ai/mlc-llm) and [Apache TVM Unity](https://github.com/apache/tvm/tree/main), where I serve as an Apache TVM Committer. I had the privilege of spending a wonderful time at the University of Washington, working with [Prof. Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
 
-From 2025 to 2026, I worked at xAI (now SpaceXAI) and am the main contributor to xAI's structured generation effort. xAI adopted XGrammar for its structured generation library.
+We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks and companies](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
 
-We have been driving the [XGrammar](https://github.com/mlc-ai/xgrammar) project forward. It is a zero-overhead LLM constrained generation engine and has already been adopted by several [well-known LLM frameworks](https://github.com/mlc-ai/xgrammar?tab=readme-ov-file#collaborators).
+From 2025 to 2026, I worked at xAI (now SpaceXAI) and was the main contributor to xAI's structured generation effort. xAI adopted XGrammar for its structured generation library.
 
 We are also currently pushing agent-driven kernel generation, including [evaluation environment](https://github.com/flashinfer-ai/flashinfer-bench/), [sandbox infra](https://github.com/mlc-ai/kcoral/), [datasets](https://huggingface.co/datasets/flashinfer-ai/flashinfer-trace), [competition](https://mlsys26.flashinfer.ai/), [agent workflow](https://github.com/NVlabs/kda), [compilers and DSLs](https://github.com/mlc-ai/TIRx-harness/), and post-training.
 
